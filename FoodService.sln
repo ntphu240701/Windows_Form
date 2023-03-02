@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_PTPMUD", "Project_PTPMUD\Project_PTPMUD.csproj", "{AFEC0F86-4DCD-465E-B5EA-F5D9F959917D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFEC0F86-4DCD-465E-B5EA-F5D9F959917D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEC0F86-4DCD-465E-B5EA-F5D9F959917D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEC0F86-4DCD-465E-B5EA-F5D9F959917D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEC0F86-4DCD-465E-B5EA-F5D9F959917D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4E69CA2-B30E-4534-B445-748ADBE8EEA8}
+	EndGlobalSection
+EndGlobal
